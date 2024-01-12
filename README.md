@@ -1,4 +1,4 @@
-# Go 101 - Beginner Practices
+# Go 101
 
-In this codes, I started to Golang programming language and I learnt its syntax.
+In this repository, I started to learn Golang programming language.
 
